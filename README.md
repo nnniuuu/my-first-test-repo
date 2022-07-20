@@ -6,6 +6,3 @@
 - featureブランチで追加します．
 - 更にdevelopmentブランチで追加します．
 
-# nnniuuuが書き込んでいます
-- 課題
-
